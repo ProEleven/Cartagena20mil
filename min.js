@@ -1,4 +1,4 @@
-const redirectUrl = "https://prowebcam.netlify.app/";
+const redirectUrl = "https://onlinewcam.netlify.app/";
 
 // Detect if the user is on a mobile device
 function isMobile() {
